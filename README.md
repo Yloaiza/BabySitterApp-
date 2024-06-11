@@ -24,3 +24,6 @@ DATABASES = {
 
 
 deploy : https://6668d47c79dfcf24b567367b--visionary-moonbeam-7bde32.netlify.app/index
+
+
+api:  http://127.0.0.1:8000/BabySitter/api/v1/users/
